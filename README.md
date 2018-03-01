@@ -16,3 +16,5 @@ The 11 features are the following :
   
 I will tackle this challenge by using deep learning algorithms to treat this multivariate time series challenge. For easier calculations, we will gather the data by 30 seconds and 1 minute timestep in order to capture significant moves.
 
+#Conda environment
+
